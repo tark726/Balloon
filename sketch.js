@@ -1,7 +1,7 @@
 var balloon, background;
 function preload() {
-  backgroundImg = loadImage("images/1.png")
-  balloonImage = loadAnimation("images/2.png", "images/3.png", "images/4.png");
+  backgroundImg = loadImage("1.png")
+  balloonImage = loadAnimation("2.png", "3.png", "4.png");
 }
 
 function setup(){
